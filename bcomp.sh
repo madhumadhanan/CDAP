@@ -1,5 +1,5 @@
 #!/bin/sh
-# Specify Bamboo plan Stage name as 2nd Argument ; usage --> sh bcomp.sh "stage Name" 
+# Specify Bamboo plan Stage name as 2nd Argument ; usage --> sh bcomp.sh logfile "stage Name" 
 PAT[0]=0
 PAT[1]=0
 PAT[2]=0
